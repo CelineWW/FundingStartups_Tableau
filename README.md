@@ -30,7 +30,8 @@
 ### 2015
   ![top 10 growth table](https://user-images.githubusercontent.com/105877888/229047471-7dd5a070-5aeb-45b6-83df-c942cbf21db3.png)
 
-  ![top 10 growth table](https://user-images.githubusercontent.com/105877888/229047510-f63c5630-9e57-41a4-b606-996c7958f46c.png)
+  ![top growth 2015](https://user-images.githubusercontent.com/105877888/229047997-89a6c5c3-a1ca-4764-8f7a-3e4956364775.png)
+
 
 ## Dashboard and Story
 <img width="1512" alt="story-overview" src="https://user-images.githubusercontent.com/105877888/229047733-b7b3fe28-b20d-4499-8e03-47dcc08e247f.png">
